@@ -1,0 +1,143 @@
+* {
+  margin: 0px;
+}
+
+body {
+  background-color: #19171d;
+}
+
+a {
+  text-decoration: none;
+}
+
+@font-face {
+  src: url(Fonts/Roobert/Roobert-Regular.otf);
+  font-family: RoobertReg;
+}
+
+@font-face {
+  src: url(Fonts/Roobert/Roobert-Light.otf);
+  font-family: RoobertLight;
+}
+
+.topic_section {
+  width: 100%;
+}
+
+#topic_1 {
+  background-color: black;
+  color: white;
+}
+
+#topic_2 {
+  background-color: white;
+  color: black;
+}
+
+#topic_3 {
+  background-color: black;
+  color: white;
+}
+
+#topic_4 {
+  background-color: white;
+  color: black;
+}
+
+.topic_block {
+  width: 90%;
+  padding-bottom: 5%;
+  margin-left: 5%;
+}
+
+.topic_block h1 {
+  font-size: 35px;
+  font-family: Helvetica;
+  font-weight: bold;
+
+  padding-top: 10%;
+}
+
+.topic_block h2 {
+  font-size: 25px;
+  font-family: Helvetica;
+  font-weight: lighter;
+
+  padding-top: 10%;
+}
+
+.topic_block p {
+  font-size: 15px;
+  font-family: RoobertLight;
+  margin-top: 5%;
+}
+
+.topic_block video {
+  margin-top: 5%;
+  width: 100%;
+}
+
+.topic_block img {
+  margin-top: 5%;
+  width: 100%;
+  object-fit: scale-down;
+}
+
+.topic_block iframe {
+  margin-top: 5%;
+  height: 200px;
+  width: 100%;
+  object-fit: scale-down;
+}
+
+.two_column {
+  width: 90%;
+  background-color: black;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.two_column img {
+  width: 40%;
+  object-fit: scale-down;
+  padding-left: 5%;
+}
+
+.slider_container {
+  margin-top: 5%;
+  height: 300px;
+  width: 100%;
+  background-color: black;
+  transition: 200ms;
+}
+
+.slider {
+  float: left;
+  overflow: hidden;
+  height: 100%;
+  width: 80%;
+}
+
+#figure_galaxy {
+  position: relative;
+  height: 100%;
+  width: 500%;
+  margin: 0;
+  left: 0;
+}
+
+.slider_btn {
+  height: 100%;
+  width: 10%;
+  float: left;
+  display: flex;
+  justify-content: center;
+}
+
+.slider_btn img {
+  width: 200%;
+  height: 100%;
+}
