@@ -19,3 +19,7 @@ Caching and storage APIs are available to service workers, Eureka web app can pr
 ## Interactive Quizzes
 
 <img src="https://github.com/mart-anthony-stark/Eureka-Learning-PWA/blob/main/screenshots/Quizzes.png?raw=true" alt="Quizzes"/>
+
+
+## Socials
+<img src="https://github.com/mart-anthony-stark/Eureka-Learning-PWA/blob/main/screenshots/Community.png?raw=true" alt="Community"/>
