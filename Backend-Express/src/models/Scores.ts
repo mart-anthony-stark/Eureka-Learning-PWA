@@ -8,4 +8,4 @@ const scoresSchema = new Schema(
   { timestamps: true }
 );
 
-export default model("Scores", scoresSchema);
+export default model("Score", scoresSchema);
