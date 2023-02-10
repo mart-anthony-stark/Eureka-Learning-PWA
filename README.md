@@ -2,6 +2,13 @@
 
 Eureka! An Educational Web App for Teaching Science and Technology in Today's Distance Learning Environment The educational web application is capable of such a study and presents an interactive, knowledgeable, and computerized web educational application for an academic learning system.
 
+## Researchers / Developers
+- [Mart Anthony Salazar](https://github.com/mart-anthony-stark)
+- [Shane Ivan Fallar](https://github.com/IFallar)
+- Johngray Bautista
+- Lemuel Aspe
+- Precious Pardo
+
 ## Installation
 
 Eureka can be installed as into devices and can do most things native apps.<br>
